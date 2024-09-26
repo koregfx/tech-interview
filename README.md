@@ -72,6 +72,7 @@ Crear una aplicación de registro de usuarios con las siguientes característica
 
 - El proyecto ya está creado y las dependencias necesarias están añadidas al `package.json`.
 - Linters y formatters están configurados.
+- Crear una rama nueva con tu nombre y apellidos.
 - Instalar dependencias.
 - Las extensiones necesarias para VSCode son: Error Lens, ESLint, Prettier, Prettier ESLint, Tailwind CSS IntelliSense, Pretty TypeScript Errors.
 
@@ -119,6 +120,12 @@ Los siguientes endpoints ya están implementados y no es necesario modificarlos.
 
 - Utiliza componentes y estilos de **shadcn/UI** para asegurar una interfaz atractiva y consistente.
 - Asegúrate de que el formulario sea responsive y accesible.
+
+#### **8. Git y commits**
+
+- Realiza commits atómicos sobre tus cambios cuando creas necesario.
+- Estos commits también sirven para poder seguir los pasos dados a lo largo del desarrollo.
+-
 
 ---
 
