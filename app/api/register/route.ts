@@ -23,7 +23,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Simular retardo para representar una operación real
-    await new Promise((resolve) => setTimeout(resolve, 1000))
+    await new Promise((resolve) => setTimeout(resolve, 2000))
 
     // Devolver respuesta exitosa
     return NextResponse.json({ message: 'Registro exitoso' }, { status: 200 })
